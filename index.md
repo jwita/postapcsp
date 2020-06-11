@@ -14,5 +14,5 @@ I have created this site for the final project.
   <summary>Click here, if you insist.</summary>
   
   <h4><strong><em>Here it is...</em></strong></h4>
-  <img src="jwita.github.io/actuallyme.png" alt="lol" height = "500" width = "500" />
+  <img src="actuallyme.png" alt="lol" height = "500" width = "500" />
   </details>
