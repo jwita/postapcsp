@@ -13,7 +13,6 @@ I have created this site for the final project.
 <details>
   <summary>Click here, if you insist.</summary>
   
-  ###### *Here it is...*
-  
+  ##### *Here it is...*  
   ![](actuallyme.png)
   </details>
