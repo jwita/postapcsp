@@ -1,7 +1,7 @@
 ---
-title: BragSheet
+title: bragsheet
 layout: pages
-filename: brag_sheet.md
+filename: bragsheet.md
 --- 
 # **My Accomplishments in Life (or, the "brag sheet")**
 ### **Academic**
