@@ -1,3 +1,7 @@
+---
+title: BragSheet
+filename: brag_sheet.md
+--- 
 # **My Accomplishments in Life (or, the "brag sheet")**
 ### **Academic**
 -does ap csp count?
