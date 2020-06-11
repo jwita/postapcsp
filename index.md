@@ -12,7 +12,6 @@ I have created this site for the final project.
 **And you want a *picture* of me?**
 <details>
   <summary>Click here, if you insist.</summary>
-  
   ###### *Here it is...*
   ![](actuallyme.png)
   </details>
