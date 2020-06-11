@@ -12,7 +12,7 @@ filename: bragsheet.md
 <hr />
 <h3><strong>Sportg</strong></h3>
 <ul>
-  <li>-Second place at a minor Bloomfield Archery tournament in 2019.</li>
+  <li>-Second place at a minor archery tournament in 2019.</li>
 </ul>
 <hr />
 <h3><strong>Other</strong></h3>
