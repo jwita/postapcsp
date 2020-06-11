@@ -1,13 +1,18 @@
 ---
-title: bragsheet
+title: Brag Sheet
 filename: bragsheet.md
---- 
-# **My Accomplishments in Life (or, the "brag sheet")**
-### **Academic**
--does ap csp count?  
-___
-### **Sports**
--Second place at a minor Bloomfield Archery tournament in 2019. 
-___
-### **Other**
--~~I didn't fucking kill myself, so that's a plus.~~
+---
+<h1><strong>My Accomplishments in Life (or, the "brag sheet")</strong></h1>
+<hr />
+<h3><strong>Academic</strong></h3>
+<ul>
+  <li>-does ap csp count?</li>
+  <li>-what about honors bio in freshman year?</li>
+</ul>
+<hr />
+<h3><strong>Sportg</strong></h3>
+<ul>
+  <li>-Second place at a minor Bloomfield Archery tournament in 2019.</li>
+</ul>
+<hr />
+<h3><strong>Other</strong></h3>
