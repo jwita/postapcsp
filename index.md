@@ -1,5 +1,6 @@
 ---
 title: Home
+layout: pages
 filename: index.md
 --- 
 ## **Hello!**
