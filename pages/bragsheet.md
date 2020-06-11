@@ -1,6 +1,5 @@
 ---
 title: bragsheet
-layout: pages
 filename: bragsheet.md
 --- 
 # **My Accomplishments in Life (or, the "brag sheet")**
