@@ -1,3 +1,7 @@
+---
+title: Home
+filename: index.md
+--- 
 ## **Hello!**
 
 My name is Jacob Withum, and I am an AP Computer Science Principles student.  
